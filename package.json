@@ -1,0 +1,16 @@
+{
+  "name": "typo",
+  "version": "1.0.0",
+  "description": "Uma tentativa para construir um arquivo .txt que contenham todas as palavras em PT-BR com ortografia correta, e valide com um site, para assegurar que não tem erros de digitação.",
+  "main": "puppeteer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "@silipi",
+  "license": "ISC",
+  "dependencies": {
+    "lodash": "^4.17.20",
+    "puppeteer": "^5.2.1"
+  }
+}
